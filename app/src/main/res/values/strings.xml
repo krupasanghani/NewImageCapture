@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MultipleCamera</string>
+
+    <string name="add_audio">Add Audio</string>
+    <string name="add_notes">Add Notes</string>
+
+
+</resources>
